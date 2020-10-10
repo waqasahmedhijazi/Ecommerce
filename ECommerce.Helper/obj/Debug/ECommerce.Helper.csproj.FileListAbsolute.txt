@@ -1,0 +1,5 @@
+E:\Working\CrudWithRepository\ECommerce.Web\ECommerce.Helper\bin\Debug\ECommerce.Helper.dll
+E:\Working\CrudWithRepository\ECommerce.Web\ECommerce.Helper\bin\Debug\ECommerce.Helper.pdb
+E:\Working\CrudWithRepository\ECommerce.Web\ECommerce.Helper\obj\Debug\ECommerce.Helper.csproj.CoreCompileInputs.cache
+E:\Working\CrudWithRepository\ECommerce.Web\ECommerce.Helper\obj\Debug\ECommerce.Helper.dll
+E:\Working\CrudWithRepository\ECommerce.Web\ECommerce.Helper\obj\Debug\ECommerce.Helper.pdb

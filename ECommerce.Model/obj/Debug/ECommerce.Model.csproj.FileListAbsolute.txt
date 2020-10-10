@@ -1,0 +1,6 @@
+E:\Working\CrudWithRepository\ECommerce.Web\ECommerce.Model\bin\Debug\ECommerce.Model.dll
+E:\Working\CrudWithRepository\ECommerce.Web\ECommerce.Model\bin\Debug\ECommerce.Model.pdb
+E:\Working\CrudWithRepository\ECommerce.Web\ECommerce.Model\obj\Debug\ECommerce.Model.csprojAssemblyReference.cache
+E:\Working\CrudWithRepository\ECommerce.Web\ECommerce.Model\obj\Debug\ECommerce.Model.csproj.CoreCompileInputs.cache
+E:\Working\CrudWithRepository\ECommerce.Web\ECommerce.Model\obj\Debug\ECommerce.Model.dll
+E:\Working\CrudWithRepository\ECommerce.Web\ECommerce.Model\obj\Debug\ECommerce.Model.pdb
